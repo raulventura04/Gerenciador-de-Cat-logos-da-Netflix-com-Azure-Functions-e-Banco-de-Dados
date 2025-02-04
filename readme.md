@@ -11,7 +11,7 @@ O arquivo `consulta-cards.html` demonstra como as APIs funcionam por meio de uma
 ```sh
 curl --location 'http://localhost:7217/api/dataStorage' \
 --header 'file-type: video' \
---form 'file=@"/C:/Users/valdir/devcode/dio/bootcamp-az-204/gerenciador-catalogos-netflix/handson-serverless-netflix/video.mp4"'
+--form 'file=@"/C:/Users/raul/devcode/dio/bootcamp-az-204/gerenciador-catalogos-netflix/handson-serverless-netflix/video.mp4"'
 ```
 
 ### 2. Incluir um Filme
